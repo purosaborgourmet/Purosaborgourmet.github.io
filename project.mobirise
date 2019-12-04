@@ -40,7 +40,10 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 137,
     "versionPublish": "4.10.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/geladinhos-ki-delicia-3-128x128.png",
+    "noImageResize": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
