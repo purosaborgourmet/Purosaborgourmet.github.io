@@ -1455,9 +1455,42 @@ body {
   color: #cc2952;
   text-align: center;
 }
-.cid-rJasl2MBM6 {
+.cid-rLJoOTku3x {
   background: #ffffff;
   padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-rLJoOTku3x .image-block {
+  margin: auto;
+}
+.cid-rLJoOTku3x figcaption {
+  position: relative;
+}
+.cid-rLJoOTku3x figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rLJoOTku3x .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rLJqLSEkO5 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rLJqLSEkO5 P {
+  color: #767676;
+}
+.cid-rLJqLSEkO5 .mbr-text,
+.cid-rLJqLSEkO5 .mbr-section-btn {
+  color: #cc2952;
+}
+.cid-rJasl2MBM6 {
+  background: #ffffff;
+  padding-top: 30px;
   padding-bottom: 0px;
   background: linear-gradient(0deg, #ffffff, #ffffff);
 }
@@ -1599,6 +1632,27 @@ body {
 }
 .cid-rrZ55wx9Bi H1 {
   color: #7f1933;
+}
+.cid-rLJpflrCYE {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-rLJpflrCYE .image-block {
+  margin: auto;
+}
+.cid-rLJpflrCYE figcaption {
+  position: relative;
+}
+.cid-rLJpflrCYE figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rLJpflrCYE .image-block {
+    width: 100% !important;
+  }
 }
 .cid-rrZbfmiZx8 {
   padding-top: 0px;
@@ -1751,6 +1805,27 @@ body {
   padding-bottom: 0px;
   background-color: #ffffff;
 }
+.cid-rLJphS7e99 {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-rLJphS7e99 .image-block {
+  margin: auto;
+}
+.cid-rLJphS7e99 figcaption {
+  position: relative;
+}
+.cid-rLJphS7e99 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rLJphS7e99 .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rs1JP2brMI {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1889,6 +1964,27 @@ body {
 }
 .cid-rs1MZjwQeI H3 {
   color: #7f1933;
+}
+.cid-rLJpj7Z8Gt {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-rLJpj7Z8Gt .image-block {
+  margin: auto;
+}
+.cid-rLJpj7Z8Gt figcaption {
+  position: relative;
+}
+.cid-rLJpj7Z8Gt figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rLJpj7Z8Gt .image-block {
+    width: 100% !important;
+  }
 }
 .cid-rs1OnoTk0x {
   padding-top: 0px;
